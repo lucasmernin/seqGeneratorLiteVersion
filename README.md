@@ -1,0 +1,2 @@
+# seqGeneratorLiteVersion
+Lite Version 
